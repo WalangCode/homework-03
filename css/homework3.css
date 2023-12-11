@@ -28,7 +28,8 @@
 }
 
 .menu-nav-li {
-  padding: 0 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .address-nav {
@@ -36,7 +37,11 @@
 }
 
 .address-nav-li {
-  gap: 40px;
+  margin-right: 40px;
+}
+
+.address-nav-lii {
+  margin-right: 0;
 }
 
 .header-links {
