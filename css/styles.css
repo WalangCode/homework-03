@@ -3,6 +3,10 @@
   --background-color: #ffffff;
 }
 
+img {
+  display: block;
+}
+
 body {
   background-color: var(--background-color);
   color: var(--bodytag-color);
@@ -196,6 +200,6 @@ body {
   color: #434455;
 }
 
-.port-default{
+.port-default {
   list-style: none;
 }
