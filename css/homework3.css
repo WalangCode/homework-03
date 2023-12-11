@@ -125,6 +125,8 @@
 }
 .sec-fourth-header {
   margin-bottom: 72px;
+  text-align: center;
+  margin-bottom: 8px;
 }
 .sec-fourth-list {
   display: flex;
