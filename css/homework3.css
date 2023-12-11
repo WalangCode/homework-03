@@ -1,5 +1,5 @@
 /* Default container */
-.default-container {
+.container {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
@@ -24,10 +24,10 @@
 
 .menu-nav {
   display: flex;
+  gap: 40px;
 }
 
 .menu-nav-li {
-  gap: 40px;
   padding: 0 24px;
 }
 
