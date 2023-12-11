@@ -36,7 +36,11 @@
 }
 
 .address-nav-li {
-  margin-right: 40px;
+  gap: 40px;
+}
+
+.header-links {
+  padding: 24px 0;
 }
 
 /* section 1 */
