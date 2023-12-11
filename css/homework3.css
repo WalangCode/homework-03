@@ -27,7 +27,7 @@
 }
 
 .menu-nav-li {
-  margin-right: 40px;
+  gap: 40px;
   padding: 0 24px;
 }
 
