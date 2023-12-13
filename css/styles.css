@@ -181,10 +181,12 @@ body {
 .btn-portfolio:hover {
   color: #ffffff;
   background-color: #404bbf;
+  border: 1px solid transparent;
 }
 .btn-portfolio:focus {
   color: #ffffff;
   background-color: #404bbf;
+  border: 1px solid transparent;
 }
 .portfolio-header {
   font-weight: 500;
