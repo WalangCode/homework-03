@@ -186,8 +186,6 @@
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
-  margin: 0;
-  padding: 0;
 }
 .port-menued {
   width: calc((100% - 48px) / 3);
